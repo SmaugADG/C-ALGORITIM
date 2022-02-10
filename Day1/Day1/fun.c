@@ -1,4 +1,4 @@
-//±È½Ï¸¡µãÊýÊÇ·ñÏàµÈ
+//æ¯”è¾ƒæµ®ç‚¹æ•°æ˜¯å¦ç›¸ç­‰
 int is_float_equal(float a, float b) {
 	if (a - b >= -1e-7 && a - b <= 1e-7) {
 		return 1;
