@@ -1,3 +1,3 @@
 #pragma once
-//±È½Ï¸¡µãÊıÊÇ·ñÏàµÈ
+//æ¯”è¾ƒæµ®ç‚¹æ•°æ˜¯å¦ç›¸ç­‰
 int is_float_equal(float a,float b);
